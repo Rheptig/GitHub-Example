@@ -8,7 +8,7 @@ int main()
     string name, color;
 
     // Output and input
-    cout << "Hello, what is your name? ";
+    cout << "Hi, may I ask what is your name? ";
     cin >> name;
 
     cout << "What is your favorite color? ";
@@ -16,6 +16,8 @@ int main()
 
     cout << endl;
     cout << "So can I call you " << color << " " << name << "?" << endl;
+
+	// test 1 2 3
 
     return 0;
 }
